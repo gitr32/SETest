@@ -2,9 +2,6 @@ Hello There Amos
 Hey MOIUAHWEI
 Hello There Amos 
 hey rely re=aspdojasfa;osfp[aosuf[qu[ ouosf
-<<<<<<< HEAD
-asdasd
-=======
 BLA BA BLA BLA BABBABABBA
 
 LAH LAH LAH LA LALLALALALA A
@@ -18,12 +15,3 @@ asdasdadasdasd.
 
 HELLO IM CHUQIAN!
 
-
-hey, im doing merge.
-
-amos amos amos amos amos
-
-REMYREMYREMYREMYREMYREMYREMY
-
-amos amos amos amos amos
->>>>>>> 9d18ede9e4d1ef89e26635fc9e3436c4b9be661e
